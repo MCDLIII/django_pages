@@ -9,7 +9,7 @@ gunicorn = "*"
 
 [dev-packages]
 
-[reqiures]
+[requires]
 python_version = "3.9"
 
 
